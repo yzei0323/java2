@@ -1,0 +1,13 @@
+package day1prac.정렬;
+
+public class MyArrays {
+
+	
+	public static void sort(Object[] arr, MyComparator c) {
+		
+	}
+	
+	public static void sort(Object[] arr) {
+		
+	}
+}

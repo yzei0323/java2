@@ -1,0 +1,12 @@
+package day1prac.정렬;
+
+public class this확인하기 {
+
+	public static void main(String[] args) {
+
+		Acorn a = new Acorn();
+		
+
+	}
+
+}

@@ -1,0 +1,17 @@
+package day1prac.정렬;
+
+public class this확인하기 {
+
+	public static void main(String[] args) {
+
+		Acorn a = new Acorn("PSW", "박시우", 250);
+		Acorn b = new Acorn("LDW", "이동우", 100);
+
+		
+		int result = a.compareTo(b);
+		//a가 기준 b가 비교대상
+		//compareTo 메서드를 호출한 객체a가 this
+
+	}
+
+}
