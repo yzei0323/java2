@@ -1,0 +1,9 @@
+package day1prac.정렬;
+
+public class Acorn2 {
+
+	String id;
+	String name;
+	int point;
+	
+}

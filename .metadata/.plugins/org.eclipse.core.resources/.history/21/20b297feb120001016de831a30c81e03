@@ -1,0 +1,39 @@
+package day1prac.정렬;
+
+public class Acorn2 implements MyComparable {
+
+	String id;
+	String name;
+	int point;
+	
+	
+	public String getId() {
+		return id;
+	}
+	public void setId(String id) {
+		this.id = id;
+	}
+	public String getName() {
+		return name;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	public int getPoint() {
+		return point;
+	}
+	public void setPoint(int point) {
+		this.point = point;
+	}
+	public Acorn2(String id, String name, int point) {
+		super();
+		this.id = id;
+		this.name = name;
+		this.point = point;
+	}
+	
+	public Acorn2() {
+		// TODO Auto-generated constructor stub
+	}
+	
+}

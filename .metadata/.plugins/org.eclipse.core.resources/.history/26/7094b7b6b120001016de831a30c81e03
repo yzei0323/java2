@@ -1,0 +1,19 @@
+package day1prac.정렬;
+
+public class MyArrays로_정렬하기2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		
+		Acorn2[] list = new Acorn2[5];
+		
+		list[0] = new Acorn2("LJH", "이정호", 500);
+		list[1] = new Acorn2("KMH", "김민환", 600);
+		list[2] = new Acorn2("KYM", "김유민", 150);
+		list[3] = new Acorn2("PSK", "박수경", 450);
+		list[4] = new Acorn2("LSM", "이수민", 83);
+		
+	}
+
+}

@@ -1,0 +1,8 @@
+package day1prac.제네릭매서드;
+
+public class 제네릭매서드연습 {
+
+	public static int 선택하기int(int a, int b) {
+		
+	}
+}

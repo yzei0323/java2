@@ -1,0 +1,11 @@
+package day1prac.제네릭매서드;
+
+public class 제네릭매서드연습 {
+
+	public static int 선택하기int(int a, int b) {
+		
+		double r = Math.random(); // 0~1 미만의 임의 뭐... 
+		
+		return r > 0.5 ? a: b:?
+	}
+}

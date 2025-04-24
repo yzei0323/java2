@@ -1,0 +1,13 @@
+package day1prac.제네릭매서드;
+
+public class PrintEx {
+
+	public static void main(String[] args) {
+	
+		
+		PrintEx.printAcorn(new Acorn("KYM", "김유민", 120));
+		PrintEx.printInteger(10);
+		printEx.printString("안녕");
+	}
+
+}

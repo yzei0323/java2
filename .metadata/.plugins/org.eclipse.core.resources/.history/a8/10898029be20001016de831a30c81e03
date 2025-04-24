@@ -1,0 +1,13 @@
+package day1prac.제네릭클래스;
+
+
+//String
+public class BoxString {
+
+	String item;
+
+	public String setItem(String item) {
+		
+	}
+
+}

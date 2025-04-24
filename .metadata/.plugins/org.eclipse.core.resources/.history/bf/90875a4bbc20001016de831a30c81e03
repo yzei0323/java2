@@ -1,0 +1,9 @@
+package day1prac.제네릭클래스;
+
+public class BoxAcorn {
+
+	
+	Acorn item;
+	
+	
+}

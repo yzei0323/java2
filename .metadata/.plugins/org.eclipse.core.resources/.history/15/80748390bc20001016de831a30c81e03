@@ -1,0 +1,13 @@
+package day1prac.제네릭클래스;
+
+public class 전용BoxMain {
+
+	public static void main(String[] args) {
+		
+		
+		BoxInteger box1 = new BoxInteger();
+		box1.setItem(3);
+
+	}
+
+}

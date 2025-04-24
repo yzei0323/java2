@@ -1,0 +1,26 @@
+package day1prac.라이브러리만들기;
+
+
+// 1. 별을 3개 출력하는 기능
+// 2. 특정문자를 3번 출력하는 기능 ( 문자는 Char -> 'A')
+// 3. 당신의 코드를 3번 실행하는 기능 -> 인터페이스 활용
+
+
+public class TestLib {
+	
+	// 1. 별 3개
+	public void Star3() {
+		for(int i=1; i<=3; i++) {
+			System.out.print("*");
+		}
+	}
+	
+	// 2. 특정문자 3번
+	public void Char3() {
+		for(int i=1; i<=3; i++) {
+			System.out.print('E');
+		}
+	}
+
+	
+}
