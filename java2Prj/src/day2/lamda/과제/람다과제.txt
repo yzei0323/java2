@@ -1,0 +1,38 @@
+
+/*
+ *  ##############################
+	오후 실습과제
+	############################## 
+	interface  Runnable {
+	       void run() ;
+	}
+	interface  Consumer<T> {
+	       void accept(T);
+	}
+	
+	interface Supplier<T>{
+	        T  get ();
+	}
+	
+	interface  Predicate<T>{
+	        boolean test( T );
+	}
+	
+	interface  	Function<T,R> {
+	        R   apply( T );
+	}
+	
+	1. Runnable  :  버킷리스트 출력하기 
+	2. Consumer  :  3만원으로 장보기  
+	3. Supplier  :  요리만들기   (레시피 정보 출력하고  반환값은  요리명을 반환해 주세요 !)
+	
+	4. Predicate  : 입력으로 받은 요리가 내가만든요리인 경우 true, false반환하기
+	
+	5. Function  :  입력하나 반환있는 함수 만들기  ( 2개 이상만 작성하기)
+	
+	    - 입력으로 들어오는 수의 제곱  반환하기
+	    - 입력으로 들어오는 수의 범위안의 난수 반환하기
+  		- 입력으로 들어오는 금액에 대한 화폐매수 구하기
+	
+	#####################################################
+ */
