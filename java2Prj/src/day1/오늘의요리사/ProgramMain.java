@@ -11,7 +11,7 @@ public class ProgramMain {
 		ArrayList<Cook> list = new ArrayList<Cook>();
 		                             
 		// Cook을 상속받았으므로 각 각의 요리사 클래스를 담을 수 있다
-		list.add(new SampleCook1("최환석"));
+		list.add(new SampleCook1("황예지"));
 		list.add(new SampleCook2("백종원"));
 		list.add(new SampleCook3("이연복"));
   

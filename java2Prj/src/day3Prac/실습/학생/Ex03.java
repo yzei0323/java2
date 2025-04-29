@@ -1,4 +1,4 @@
-package day03Prac.실습;
+package day3Prac.실습.학생;
 
 import java.util.ArrayList;
 import java.util.stream.Stream;
