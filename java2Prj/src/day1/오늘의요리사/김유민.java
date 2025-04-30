@@ -1,5 +1,6 @@
 package day1.오늘의요리사;
 
+
 public class 김유민 extends Cook implements 일식가능한{
 
 	public 김유민(String name) {
