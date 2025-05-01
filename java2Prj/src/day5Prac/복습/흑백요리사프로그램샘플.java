@@ -43,7 +43,7 @@ public class 흑백요리사프로그램샘플 {
 			cooklist  = new  백요리사리스트();			
 			
 		}else if(choice  == 2) {
-			cooklist  = new  흑요리사리스트();	
+			cooklist  = new 흑요리사리스트();	
 		}		
 		
 		//요리사리스트 세터 주입
